@@ -41,19 +41,17 @@ This document provides an overview of all the automated tooling configured in th
 
 - **Purpose**: Enforce conventional commit messages
 - **Config**: `commitlint.config.js`
-- **Hook**: `.husky/commit-msg`
+
 - **Format**: `type: subject` (e.g., `feat: add new feature`)
 - **Allowed types**:
   - `feat`, `fix`, `docs`, `style`, `refactor`
   - `perf`, `test`, `build`, `ci`, `chore`, `revert`
 
-### Husky
+### Lefthook
 
 - **Purpose**: Git hooks management
-- **Config**: `.husky/` directory
-- **Hooks**:
-  - `pre-commit`: Runs lint-staged
-  - `commit-msg`: Runs commitlint
+
+
 
 ### Lint-staged
 
@@ -218,4 +216,4 @@ All PRs must pass:
 - [ESLint](https://eslint.org/)
 - [Prettier](https://prettier.io/)
 - [Commitlint](https://commitlint.js.org/)
-- [Husky](https://typicode.github.io/husky/)
+- [Lefthook](https://lefthook.dev/)

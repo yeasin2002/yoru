@@ -233,7 +233,7 @@ dist/
 ### Git Workflow
 
 - Conventional commits for changelog generation
-- Husky pre-commit hooks for formatting/linting
+- Lefthook pre-commit hooks for formatting/linting
 - Changesets for version management
 
 ## Roadmap Awareness

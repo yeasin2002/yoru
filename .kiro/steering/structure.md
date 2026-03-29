@@ -22,7 +22,7 @@ openkit/
 ├── dist/                # Build output (generated, gitignored)
 ├── .changeset/          # Changeset configuration
 ├── .github/             # GitHub Actions workflows
-├── .husky/              # Git hooks
+├── Lefthook/              # Git hooks
 └── node_modules/        # Dependencies (gitignored)
 ```
 

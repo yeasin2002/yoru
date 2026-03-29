@@ -47,7 +47,7 @@
 
 - **ESLint**: TypeScript ESLint with recommended type-checked rules
 - **Prettier**: Code formatting with single quotes, no semicolons, 100 char line width
-- **Husky + lint-staged**: Pre-commit hooks for automatic formatting and linting
+- **Lefthook**: Pre-commit hooks for automatic formatting and linting
 
 ## Package Management
 

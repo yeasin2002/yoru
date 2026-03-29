@@ -27,7 +27,7 @@ Give a ⭐️ if this project helped you transform OpenAPI specs efficiently!
 
 ### Automation & Workflow
 
-- **🪝 Husky + lint-staged** - Pre-commit hooks for automatic formatting and linting
+- **🪝 Lefthook + lint-staged** - Pre-commit hooks for automatic formatting and linting
 - **✅ Commitlint** - Enforce conventional commits for better changelogs
 - **📝 Changesets** - Automated version management and changelog generation
 - **🤖 GitHub Actions** - Complete CI/CD pipeline for testing and releases

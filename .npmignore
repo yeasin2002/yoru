@@ -16,7 +16,6 @@ test/
 *.test.*
 *.spec.*
 .github/
-.husky/
 .changeset/
 .vscode/
 coverage/
